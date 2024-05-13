@@ -1,0 +1,7 @@
+footer.container{
+  display: flex;
+}
+
+footer ul li a img{
+  width: 30px;
+}
